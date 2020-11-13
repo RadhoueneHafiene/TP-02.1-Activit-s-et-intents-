@@ -6,8 +6,8 @@ Question 1:
 
 Quelles modifications sont apportées lorsque vous ajoutez une deuxième activité à votre application en choisissant File > New > Activity et un modèle d'activité? Choisissez-en un:
 
-     La deuxième activité est ajoutée en tant que classe Java, 
-     le fichier de présentation (layout) XML est créé et le fichier AndroidManifest.xml est modifié pour déclarer une deuxième activité.
+     La deuxième activité est ajoutée en tant que classe Java, le fichier de présentation (layout) XML est créé 
+     et le fichier AndroidManifest.xml est modifié pour déclarer une deuxième activité.
     
 Question 2:
 
