@@ -13,7 +13,8 @@ Question 2:
 
 Que se passe-t-il si vous supprimez les éléments android:parentActivityName et <méta-data> de la deuxième déclaration d'activité du fichier AndroidManifest.xml? Choisissez-en un:
 
-      La deuxième activité n'apparaît plus lorsque vous essayez de la démarrer avec une intention (Intent) explicite.
+      La deuxième activité n'apparaît plus lorsque vous essayez de 
+      la démarrer avec une intention (Intent) explicite.
 
 Question 3:
 
